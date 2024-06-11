@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = task_8
+build_property.ProjectDir = /Users/mike/Library/CloudStorage/OneDrive-Personal/Документы/УМСФ/Курс 2/Семестр 2/Стандартизація ПЗ/ПР 5/pz_pr5/task_8/
