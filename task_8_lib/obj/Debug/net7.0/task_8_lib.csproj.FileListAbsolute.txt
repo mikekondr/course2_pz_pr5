@@ -1,0 +1,12 @@
+/Users/mike/Library/CloudStorage/OneDrive-Personal/Документы/УМСФ/Курс 2/Семестр 2/Стандартизація ПЗ/ПР 5/pz_pr5/task_8_lib/bin/Debug/net7.0/task_8_lib.deps.json
+/Users/mike/Library/CloudStorage/OneDrive-Personal/Документы/УМСФ/Курс 2/Семестр 2/Стандартизація ПЗ/ПР 5/pz_pr5/task_8_lib/bin/Debug/net7.0/task_8_lib.dll
+/Users/mike/Library/CloudStorage/OneDrive-Personal/Документы/УМСФ/Курс 2/Семестр 2/Стандартизація ПЗ/ПР 5/pz_pr5/task_8_lib/bin/Debug/net7.0/task_8_lib.pdb
+/Users/mike/Library/CloudStorage/OneDrive-Personal/Документы/УМСФ/Курс 2/Семестр 2/Стандартизація ПЗ/ПР 5/pz_pr5/task_8_lib/obj/Debug/net7.0/task_8_lib.csproj.AssemblyReference.cache
+/Users/mike/Library/CloudStorage/OneDrive-Personal/Документы/УМСФ/Курс 2/Семестр 2/Стандартизація ПЗ/ПР 5/pz_pr5/task_8_lib/obj/Debug/net7.0/task_8_lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mike/Library/CloudStorage/OneDrive-Personal/Документы/УМСФ/Курс 2/Семестр 2/Стандартизація ПЗ/ПР 5/pz_pr5/task_8_lib/obj/Debug/net7.0/task_8_lib.AssemblyInfoInputs.cache
+/Users/mike/Library/CloudStorage/OneDrive-Personal/Документы/УМСФ/Курс 2/Семестр 2/Стандартизація ПЗ/ПР 5/pz_pr5/task_8_lib/obj/Debug/net7.0/task_8_lib.AssemblyInfo.cs
+/Users/mike/Library/CloudStorage/OneDrive-Personal/Документы/УМСФ/Курс 2/Семестр 2/Стандартизація ПЗ/ПР 5/pz_pr5/task_8_lib/obj/Debug/net7.0/task_8_lib.csproj.CoreCompileInputs.cache
+/Users/mike/Library/CloudStorage/OneDrive-Personal/Документы/УМСФ/Курс 2/Семестр 2/Стандартизація ПЗ/ПР 5/pz_pr5/task_8_lib/obj/Debug/net7.0/task_8_lib.dll
+/Users/mike/Library/CloudStorage/OneDrive-Personal/Документы/УМСФ/Курс 2/Семестр 2/Стандартизація ПЗ/ПР 5/pz_pr5/task_8_lib/obj/Debug/net7.0/refint/task_8_lib.dll
+/Users/mike/Library/CloudStorage/OneDrive-Personal/Документы/УМСФ/Курс 2/Семестр 2/Стандартизація ПЗ/ПР 5/pz_pr5/task_8_lib/obj/Debug/net7.0/task_8_lib.pdb
+/Users/mike/Library/CloudStorage/OneDrive-Personal/Документы/УМСФ/Курс 2/Семестр 2/Стандартизація ПЗ/ПР 5/pz_pr5/task_8_lib/obj/Debug/net7.0/ref/task_8_lib.dll

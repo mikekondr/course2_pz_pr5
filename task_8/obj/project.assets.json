@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "task_8_lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/task_8_lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/task_8_lib.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "task_8_lib/1.0.0": {
+      "type": "project",
+      "path": "../task_8_lib/task_8_lib.csproj",
+      "msbuildProject": "../task_8_lib/task_8_lib.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "task_8_lib >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/mike/.nuget/packages/": {}
@@ -32,7 +51,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/mike/Library/CloudStorage/OneDrive-Personal/Документы/УМСФ/Курс 2/Семестр 2/Стандартизація ПЗ/ПР 5/pz_pr5/task_8_lib/task_8_lib.csproj": {
+              "projectPath": "/Users/mike/Library/CloudStorage/OneDrive-Personal/Документы/УМСФ/Курс 2/Семестр 2/Стандартизація ПЗ/ПР 5/pz_pr5/task_8_lib/task_8_lib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
